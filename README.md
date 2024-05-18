@@ -1,0 +1,1 @@
+This is a web Application that will provide a google map whith the route that will inform conductor the specific time that he has to reach to the next stop bus in 5 stops bus we have from Kimironko to Nyabugogo. 
